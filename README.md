@@ -7,9 +7,9 @@
 
 <p align="left"> <a href="https://twitter.com/morgrhim" target="blank"><img src="https://img.shields.io/twitter/follow/morgrhim?logo=twitter&style=for-the-badge" alt="morgrhim" /></a> </p>
 
-- 🔭 I’m currently working on **an as of yet unnamed Unreal project**
+- 🔭 I’m currently working on **Null Protocol**
 
-- 💬 Ask me about **C# and Unity**
+- 💬 Ask me about **C# and Godot**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
